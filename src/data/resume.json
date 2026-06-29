@@ -34,19 +34,32 @@
     "email": "renato@renatomontanari.com.br",
     "phone": "(12) 98114-4112",
     "summary": "Desenvolvedor especializado em PHP, Laravel, Livewire, Vue.js e Tailwind CSS."
-  },
-  "social": {
-    "github": "https://github.com/...",
-    "linkedin": "https://linkedin.com/in/...",
-    "website": "https://renatomontanari.com.br"
-  },
+  },  
   "skills": [
-    "PHP",
-    "Laravel",
-    "Livewire",
-    "Vue.js",
-    "Tailwind CSS",
-    "MySQL"
+    {
+      "category": "Frontend",
+      "items": [
+        { "name": "Vue.js", "level": 90 },
+        { "name": "JavaScript", "level": 85 },
+        { "name": "Tailwind CSS", "level": 95 }
+      ]
+    },
+    {
+      "category": "Backend",
+      "items": [
+        { "name": "Laravel", "level": 95 },
+        { "name": "PHP", "level": 90 },
+        { "name": "APIs REST", "level": 88 }
+      ]
+    },
+    {
+      "category": "DevOps",
+      "items": [
+        { "name": "Docker", "level": 80 },
+        { "name": "Linux", "level": 75 },
+        { "name": "Nginx", "level": 70 }
+      ]
+    }
   ],
   "experience": [
     {
@@ -96,5 +109,15 @@
       "github": "https://github.com/seuusuario/api",
       "demo": ""
     }
-  ]
+  ],
+  "contact": {
+    "title": "Vamos trabalhar juntos?",
+    "description": "Tem um projeto em mente? Me chama que eu te ajudo a transformar em realidade.",
+    "email": "mailto:contato@seudominio.com"
+  },
+  "social": {
+    "github": "https://github.com/...",
+    "linkedin": "https://linkedin.com/in/...",
+    "website": "https://renatomontanari.com.br"
+  }
 }

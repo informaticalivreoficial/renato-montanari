@@ -42,7 +42,7 @@ const { resume } = defineProps({
             :key="skill"
             class="rounded-full border border-slate-700 bg-slate-900/50 px-4 py-2 text-sm transition-all duration-300 hover:border-sky-500 hover:bg-slate-800"
           >
-            {{ skill }}
+            {{ skill.category }}
           </span>
         </div>
 

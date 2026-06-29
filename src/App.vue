@@ -12,6 +12,8 @@
 
       <AppAbout :resume="resume" />
 
+      <AppSkills :resume="resume" />
+
       <AppExperience :resume="resume" />
 
       <AppProjects :resume="resume" />
@@ -30,6 +32,7 @@
   import AppNavbar from './components/AppNavbar.vue'
   import AppHero from './components/AppHero.vue'
   import AppAbout from './components/AppAbout.vue'
+  import AppSkills from './components/AppSkills.vue'
   import AppExperience from './components/AppExperience.vue'
   import AppProjects from './components/AppProjects.vue'
   import AppContact from './components/AppContact.vue'
