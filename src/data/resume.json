@@ -1,0 +1,100 @@
+{
+  "about": {
+    "title": "Sobre Mim",
+    "description": "Sou desenvolvedor Full Stack apaixonado por tecnologia e por criar aplicações modernas utilizando Laravel, Vue.js, Livewire e Tailwind CSS. Gosto de escrever código limpo, escalável e focado na melhor experiência do usuário."
+  },
+  "highlights": [
+    "Laravel",
+    "Vue.js",
+    "Livewire",
+    "Tailwind CSS",
+    "Docker",
+    "MySQL",
+    "APIs REST",
+    "Git"
+  ],
+  "stats": [
+    {
+      "value": "20+",
+      "label": "Anos de experiência"
+    },
+    {
+      "value": "50+",
+      "label": "Projetos desenvolvidos"
+    },
+    {
+      "value": "100%",
+      "label": "Compromisso"
+    }
+  ],
+  "profile": {
+    "name": "Renato Montanari",
+    "title": "Desenvolvedor Full Stack",
+    "location": "Ubatuba, SP",
+    "email": "renato@renatomontanari.com.br",
+    "phone": "(12) 98114-4112",
+    "summary": "Desenvolvedor especializado em PHP, Laravel, Livewire, Vue.js e Tailwind CSS."
+  },
+  "social": {
+    "github": "https://github.com/...",
+    "linkedin": "https://linkedin.com/in/...",
+    "website": "https://renatomontanari.com.br"
+  },
+  "skills": [
+    "PHP",
+    "Laravel",
+    "Livewire",
+    "Vue.js",
+    "Tailwind CSS",
+    "MySQL"
+  ],
+  "experience": [
+    {
+      "year": "2026",
+      "role": "Full Stack Developer",
+      "company": "SaaS Marketplace Náutico",
+      "description": "Desenvolvimento de plataforma SaaS para reservas e gestão de passeios náuticos.",
+      "stack": ["Laravel", "Vue", "Livewire", "Tailwind"]
+    },
+    {
+      "year": "2025",
+      "role": "Freelancer Full Stack",
+      "company": "Projetos diversos",
+      "description": "Criação de APIs, sistemas e dashboards sob demanda para clientes.",
+      "stack": ["Laravel", "Vue", "MySQL"]
+    },
+    {
+      "year": "2024",
+      "role": "Backend Developer",
+      "company": "Sistemas internos",
+      "description": "Manutenção e desenvolvimento de sistemas administrativos internos.",
+      "stack": ["PHP", "Laravel", "MySQL"]
+    }
+  ],
+  "projects": [
+    {
+      "title": "Marketplace Náutico SaaS",
+      "description": "Plataforma de reservas e gestão de passeios náuticos.",
+      "image": "/projects/nautico.jpg",
+      "stack": ["Laravel", "Vue", "Tailwind"],
+      "github": "https://github.com/seuusuario/nautico",
+      "demo": "https://demo.com"
+    },
+    {
+      "title": "Sistema de Gestão",
+      "description": "Sistema administrativo para controle interno de operações.",
+      "image": "/projects/gestao.jpg",
+      "stack": ["Laravel", "MySQL"],
+      "github": "https://github.com/seuusuario/gestao",
+      "demo": ""
+    },
+    {
+      "title": "API de Pagamentos",
+      "description": "API para integração com gateways de pagamento.",
+      "image": "/projects/api.jpg",
+      "stack": ["Laravel", "REST"],
+      "github": "https://github.com/seuusuario/api",
+      "demo": ""
+    }
+  ]
+}
