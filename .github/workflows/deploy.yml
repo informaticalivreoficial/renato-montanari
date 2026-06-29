@@ -28,7 +28,7 @@ jobs:
 
           git config --global --add safe.directory /www/wwwroot/renatomontanari.com.br
 
-          cd /www/wwwroot/renatomontanari.com.br
+          cd /www/wwwroot/renatomontanari.com.br  
 
           echo "📥 Atualizando projeto..."
           git pull origin main
