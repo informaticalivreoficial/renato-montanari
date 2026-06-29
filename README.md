@@ -1,44 +1,60 @@
-# renato-montanari
+# 🚀 Portfólio - Renato Montanari
 
-This template should help get you started developing with Vue 3 in Vite.
+Portfólio pessoal desenvolvido com **Vue 3 + Vite + Tailwind CSS**, com foco em performance, design moderno e experiência do usuário.
 
-## Recommended IDE Setup
+---
 
-[VS Code](https://code.visualstudio.com/) + [Vue (Official)](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+## ✨ Demonstração
 
-## Recommended Browser Setup
+> Projeto de uma página única (SPA) para apresentação profissional, currículo e projetos.
 
-- Chromium-based browsers (Chrome, Edge, Brave, etc.):
-  - [Vue.js devtools](https://chromewebstore.google.com/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)
-  - [Turn on Custom Object Formatter in Chrome DevTools](http://bit.ly/object-formatters)
-- Firefox:
-  - [Vue.js devtools](https://addons.mozilla.org/en-US/firefox/addon/vue-js-devtools/)
-  - [Turn on Custom Object Formatter in Firefox DevTools](https://fxdx.dev/firefox-devtools-custom-object-formatters/)
+---
 
-## Customize configuration
+## 📸 Preview
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+![Preview do projeto](./preview.png)
 
-## Project Setup
+---
 
-```sh
-npm install
-```
+## 🧠 Sobre o projeto
 
-### Compile and Hot-Reload for Development
+Este projeto foi criado para apresentar minha trajetória como desenvolvedor Full Stack, incluindo:
 
-```sh
-npm run dev
-```
+- Experiência profissional
+- Projetos reais
+- Skills técnicas
+- Contato direto
 
-### Compile and Minify for Production
+O objetivo é manter um site leve, rápido e com visual moderno no estilo **SaaS / landing page de startup**.
 
-```sh
-npm run build
-```
+---
 
-### Lint with [ESLint](https://eslint.org/)
+## 🛠️ Tecnologias utilizadas
 
-```sh
-npm run lint
-```
+- Vue 3
+- Vite
+- Tailwind CSS
+- JavaScript (ES6+)
+
+---
+
+## 📁 Estrutura do projeto
+
+```text
+src/
+├── assets/
+├── components/
+│   ├── AppNavbar.vue
+│   ├── AppHero.vue
+│   ├── AppAbout.vue
+│   ├── AppExperience.vue
+│   ├── AppSkills.vue
+│   ├── AppProjects.vue
+│   ├── AppContact.vue
+│   └── AppFooter.vue
+│
+├── data/
+│   └── resume.json
+│
+├── App.vue
+└── main.js
