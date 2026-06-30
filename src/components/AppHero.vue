@@ -1,5 +1,5 @@
 <script setup>
-import profileImage from '@/assets/images/perfil.jpg'
+import profileImage from '/perfil.jpeg'
 
 const { resume } = defineProps({
   resume: {
@@ -14,7 +14,6 @@ const { resume } = defineProps({
     <div
       class="mx-auto grid w-full max-w-7xl items-center gap-16 px-6 py-24 lg:grid-cols-2"
     >
-      <!-- Texto -->
       <div class="order-2 text-center lg:order-1 lg:text-left">
 
         <span

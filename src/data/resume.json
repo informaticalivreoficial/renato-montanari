@@ -88,7 +88,7 @@
     {
       "title": "Marketplace Náutico SaaS",
       "description": "Plataforma de reservas e gestão de passeios náuticos.",
-      "image": "/projects/nautico.jpg",
+      "image": "/projects/nautico.jpeg",
       "stack": ["PHP", "Laravel", "Livewire", "Tailwind"],
       "github": "https://github.com/informaticalivreoficial/super-passeios",
       "demo": "https://demo.com"
@@ -96,7 +96,7 @@
     {
       "title": "Sistema de Gestão Imobiliária",
       "description": "Sistema administrativo para controle interno de operações imobiliárias.",
-      "image": "/projects/gestao.jpg",
+      "image": "/projects/gestao.jpeg",
       "stack": ["PHP", "Laravel", "MySQL"],
       "github": "https://github.com/informaticalivreoficial/moras-imoveis",
       "demo": ""
@@ -104,7 +104,7 @@
     {
       "title": "API de Pagamentos",
       "description": "API para integração com gateways de pagamento.",
-      "image": "/projects/api.jpg",
+      "image": "/projects/api.jpeg",
       "stack": ["Laravel", "REST"],
       "github": "https://github.com/informaticalivreoficial/api",
       "demo": ""
