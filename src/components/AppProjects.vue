@@ -33,7 +33,7 @@ const { resume } = defineProps({
           <img
             :src="project.image"
             :alt="project.title"
-            class="h-full w-full object-cover transition duration-500 group-hover:scale-105"
+            class="h-full w-full object-cover object-[center_15%] transition duration-500 group-hover:scale-105"
           />
         </div>
 
