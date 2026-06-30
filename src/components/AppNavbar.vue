@@ -6,12 +6,12 @@
 
         <img
           :src="profileImage"
-          alt="Profile"
+          alt="Renato Montanari"
           class="h-9 w-9 rounded-full object-cover border border-slate-700"
         />
 
         <span class="text-sm font-semibold text-white tracking-wide">
-          Renato
+          Renato Montanari
         </span>
 
       </a>
@@ -38,5 +38,5 @@
 </template>
 
 <script setup>
-import profileImage from '@/assets/images/perfil.jpg'
+  import profileImage from '/perfil.jpeg'
 </script>
